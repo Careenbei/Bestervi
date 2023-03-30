@@ -1,0 +1,6 @@
+- MyUnitTestProject   
+  + FTPServerTests <- Folder
+   + UserManagerTests <- Test Fixture Class
+     - Can_add_user_to_domain  <- Test methods
+     - Can_delete_user_from_domain
+     - Can_reset_password
